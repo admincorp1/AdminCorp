@@ -120,6 +120,8 @@ hr {
 .section-title {
 	padding-bottom: 50px;
 }
+
+}
 .btn-custom {
 	text-transform: uppercase;
 	color: #414a52;
@@ -206,6 +208,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	margin-bottom: 30px;
 	line-height: 21px;
 }
+#segmento .segmento-text2 {
+	margin-right: : 10px;
+}
+
 /* About Section */
 #about {
 	padding: 120px 0;
@@ -487,4 +493,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	float: left;
 	margin-bottom: 20px;
 }
+}
+table {
+  border: #b2b2b2 2px solid;
+}
+td, th {
+  border: black 2px solid;
 }
